@@ -52,7 +52,17 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
   - WordPress plugin for ad campaigns/content targeting using PHP, TypeScript, permutive.io, Composer, and CarbonFields.
   - WordPress plugin for data display/search/filter using PHP, JavaScript, Mustache, and FastestCache.
 
-#### Founder at nikita.global
+#### Freelance Developer (2009 - 2023)
+- **WordPress & Joomla Development**: Created numerous plugins for WordPress and Joomla platforms, including custom payment gateways and delivery systems for WooCommerce, warehouse integrations, and e-commerce solutions.
+- **E-commerce Solutions**: Developed payment gateways and delivery systems for WooCommerce, integrated with various warehouses and marketplaces including AliExpress and eBay.
+- **Government & Business Projects**: Built websites for government services, dance schools, and implemented access control systems for shopping centers.
+- **Data Processing & Automation**: Developed web scrapers and data processing tools for various business needs.
+- **Legacy Code Management**: Successfully maintained and modernized numerous legacy projects, ensuring their continued functionality and performance optimization.
+- **Security & Malware Protection**: Implemented comprehensive security measures and developed solutions to combat malicious software, ensuring robust protection for client systems and data.
+- **Freelance Platforms**: Active experience on Upwork and Toptal, delivering high-quality solutions to international clients while maintaining excellent ratings and client relationships.
+- **Project Management**: Successfully delivered multiple projects on time and within budget, ensuring high client satisfaction and retention rates.
+
+#### Founder at nikita.global (Mar 2018)
 - **Contract Management**: Managed contracts and technical assignments for multiple clients, ensuring high client retention rate.
 - **Team Leadership**: Led teams and acted as a backend developer, successfully delivering projects on time and within budget.
 - **Project Development**: Developed projects using LAMP and MEAN stacks, including:
@@ -63,8 +73,7 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 
 ### Education
 - **MBA in Marketing**, Cardiff Metropolitan University of Wales, UK (2012)
-- **French Language Course**, Institut International de Langues & Affaires, Rambouillet, France (1999, 2000, 2004)
-- **Marketing**, All-Russian Academy of Foreign Trade, Moscow (2002)
+- **French Language Course**, Institut International de Langues & Affaires, Rambouillet, France
 
 ### Certifications
 - PHP Developer. Professional Otus (2023)
@@ -89,11 +98,12 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 ## My Links
 - [GitHub](https://github.com/nikitaGlobal/)
 - [Linkedin](https://www.linkedin.com/in/nikitaglobal/)
+- [Toptal](https://www.toptal.com/resume/nikita-menshutin)
 - [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
 - [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
 - [Personal blog nikita.global](https://nikita.global)
 
 Latest version of my cv can be found here:
 
-- [Web version](https://nikitaglobal.github.io/cv/) 
-- [PDF version](https://nikitaglobal.github.io/cv/nikita_menshutin.pdf)
+- [Web version](https://nikitaglobal.github.io/nikitaglobal/) 
+- [PDF version](https://nikitaglobal.github.io/nikitaglobal/nikita_menshutin.pdf)

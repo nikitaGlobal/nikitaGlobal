@@ -105,5 +105,5 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 
 Latest version of my cv can be found here:
 
-- [Web version](https://nikitaglobal.github.io/nikitaglobal/) 
-- [PDF version](https://nikitaglobal.github.io/nikitaglobal/nikita_menshutin.pdf)
+- [Web version](https://nikitaglobal.github.io/nikitaGlobal/) 
+- [PDF version](https://nikitaglobal.github.io/nikitaGlobal/nikita_menshutin.pdf)

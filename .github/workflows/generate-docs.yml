@@ -1,0 +1,77 @@
+name: Generate PDF and HTML
+
+on:
+    push:
+      branches:
+        - main
+
+permissions:
+    contents: write
+    pages: write
+    id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Install dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc weasyprint
+
+    - name: Set up Git
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@github.com'
+
+    - name: Create or update gh-pages branch
+      run: |
+        if ! git ls-remote --exit-code --heads origin gh-pages; then
+          git checkout --orphan gh-pages
+          git commit -m --allow-empty "Initial gh-pages commit"
+          git push origin gh-pages
+        else
+          git fetch origin gh-pages:gh-pages
+          git checkout gh-pages
+        fi
+
+    - name: Set up GitHub token
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/nikitaGlobal/cv
+
+    - name: Generate HTML
+      run: |
+          git checkout main README.md
+          git checkout main styles.css
+          pandoc README.md --metadata title="Senior PHP Backend Developer"  --from=markdown --to=html5  -o index.html --standalone --css=styles.css
+           
+    
+    - name: Generate PDF
+      run: |
+          git checkout main README.md
+          git checkout main styles.css
+          pandoc --standalone --metadata title="Senior PHP Backend Developer" --from=markdown --to=html5 README.md -o output.html
+          weasyprint output.html -s styles.css nikita_menshutin.pdf
+
+    - name: Set up GitHub token
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/nikitaGlobal/cv
+
+    - name: Deploy to GitHub Pages
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git add .
+        git add -f index.html
+        git add -f nikita_menshutin.pdf
+        git add -f styles.css
+        git commit -m "Deploy updates"
+        git push origin gh-pages

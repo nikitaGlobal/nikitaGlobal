@@ -1,0 +1,119 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4kaVIGxA.woff2') format('woff2');
+    unicode-range: U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116; /* кириллица */
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    width: 80%;
+    margin:auto;
+}
+
+h1, h2, h3, h4 {
+    color: #000; /* Все заголовки черного цвета */
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+h4 {
+    font-size: 16px;
+    font-weight: bold; /* Заголовки с наименованием работодателя более заметные */
+    color: #000;
+    background-color: #f0f0f0; /* Фон для заголовков с наименованием работодателя */
+    padding: 5px;
+    border-radius: 5px; /* Закругленные углы для заголовков */
+}
+
+table {
+    width: 50%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+/*
+make table second column wider
+*/
+th:nth-child(2) {
+    width: 70%;
+}
+table colgroup col{
+    width: inherit !important;
+}
+ul {
+    list-style-type: disc; /* Добавляем значки для списков */
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: underline;
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
+
+#contact-information, #professional-summary, #desired-position, #key-skills, #professional-experience, #education, #certifications, #additional-information {
+    margin-top: 20px;
+}
+
+#contact-information table td:first-child {
+    width: 67%;
+}
+
+#contact-information table td:last-child {
+    width: 32%;
+}
+
+/* Правила для вложенных списков */
+ul ul {
+    list-style-type: circle; /* Вложенные списки с круглыми значками */
+    padding-left: 40px; /* Отступ для вложенных списков */
+}
+
+ul ul ul {
+    list-style-type: square; /* Вложенные списки второго уровня с квадратными значками */
+    padding-left: 80px; /* Больший отступ для списков второго уровня */
+}
+
+@media print {
+    @page {
+      size: A4 portrait;
+      margin-left: 0cm;
+      margin-right: 0cm;
+      margin-top: 0.5cm;
+      margin-bottom: 0.5cm;
+    }
+    
+}
+  

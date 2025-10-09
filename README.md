@@ -48,22 +48,23 @@ Highly experienced Senior Backend Developer and WordPress Developer with experti
 - **CI/CD and Best Practices**: Configures Continuous Integration/Continuous Deployment pipelines, introduces code style standards, and abides by in-company bylaws.
 
 **WordPress Development Responsibilities:**
-- **Website and Internal System Development**: Responsible for development and maintenance of company website and internal systems
-- **Custom Development**: Develop custom themes, plugins, and functionality using WordPress best practices and extensive knowledge of WordPress APIs
-- **Performance Optimization**: Optimize website performance, ensure code quality, and implement web performance optimization techniques
-- **Automated Testing**: Implement end-to-end testing using Playwright for automated testing and quality assurance
-- **Cross-platform Testing**: Conduct thorough testing and troubleshooting to ensure seamless website functionality across multiple devices and browsers
-- **Team Collaboration**: Collaborate with design and development teams to create new functionalities and improvements on existing systems
-- **Marketing & Analytics Integration**: Build marketing campaigns and integrate with HubSpot, Google Tag Manager, and Pendo
-- **Security & SEO**: Implement security best practices and SEO principles
-- **Technology Leadership**: Keep up-to-date with latest industry trends and technologies, proactively recommend improvements to enhance existing products
-- **AI Integration**: Implement AI-powered features and integrations to enhance product functionality and user experience
+- **Website and Internal System Development:** Responsible for development and maintenance of company website and internal systems
+- **Custom Development:** Develop custom themes, plugins, and functionality using WordPress best practices and extensive knowledge of WordPress APIs
+- **Performance Optimization:** Optimize website performance, ensure code quality, and implement web performance optimization techniques
+- **Automated Testing:** Implement end-to-end testing using Playwright for automated testing and quality assurance
+- **Cross-platform Testing:** Conduct thorough testing and troubleshooting to ensure seamless website functionality across multiple devices and browsers
+- **Team Collaboration:** Collaborate with design and development teams to create new functionalities and improvements on existing systems
+- **Marketing & Analytics Integration:** Build marketing campaigns and integrate with HubSpot, Google Tag Manager, and Pendo
+- **Security & SEO:** Implement security best practices and SEO principles
+- **Technology Leadership:** Keep up-to-date with latest industry trends and technologies, proactively recommend improvements to enhance existing products
+- **AI Integration:** Implement AI-powered features and integrations to enhance product functionality and user experience
 
 **Technologies & Stack:**
 - **Backend:** PHP, Python/Django, REST API development
 - **Frontend:** JavaScript, ReactJS
 - **CMS:** WordPress (custom themes, plugins, APIs)
 - **Testing:** Playwright (E2E testing)
+- **DevOps:** CI/CD pipelines, Docker
 - **Tools:** HubSpot, Google Tag Manager, Pendo
 
 #### Senior Backend Developer at Dev Tactics, Poland/Germany/USA (Feb 2022 - Sep 2023)
@@ -144,6 +145,7 @@ Highly experienced Senior Backend Developer and WordPress Developer with experti
 - [Toptal](https://www.toptal.com/resume/nikita-menshutin)
 - [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
 - [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- [WordPress.tv](https://wordpress.tv/speakers/nikita-menshutin/)
 - [Personal blog nikita.global](https://nikita.global)
 
 Latest version of my cv can be found here:

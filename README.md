@@ -144,6 +144,7 @@ Highly experienced Senior Backend Developer and WordPress Developer with experti
 - [Toptal](https://www.toptal.com/resume/nikita-menshutin)
 - [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
 - [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- [WordPress.tv](https://wordpress.tv/speakers/nikita-menshutin/)
 - [Personal blog nikita.global](https://nikita.global)
 
 Latest version of my cv can be found here:

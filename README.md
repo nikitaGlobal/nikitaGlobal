@@ -10,10 +10,10 @@
 | **Recommendations** | Upon request |
 
 ### Professional Summary
-Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, and mentoring teams. Proficient in LAMP and MEAN stacks, with a strong focus on delivering scalable and efficient solutions.
+Highly experienced Senior Backend Developer and WordPress Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, custom WordPress themes and plugins, and mentoring teams. Proficient in LAMP and MEAN stacks, with extensive experience in AI integration, marketing automation (HubSpot, Google Tag Manager, Pendo), and a strong focus on delivering scalable and efficient solutions.
 
 ### Desired Position
-- **Senior Backend Developer**
+- **Senior Backend Developer / Senior WordPress Developer**
   - Employment Type: Project work, part-time, full-time
   - Work Schedule: Remote working
   - Travel Time: Any
@@ -25,23 +25,66 @@ Highly experienced Senior Backend Developer with expertise in PHP, JavaScript, P
 - **Databases:** MySQL, Redis
 - **CMS:** WordPress, Joomla, Opencart
 - **Stacks:** LAMP, MEAN
-- **AI & Machine Learning:** OpenAI API, LangChain, Prompt Engineering, AI Integration, Natural Language Processing, AI-powered Chatbots, AI Content Generation
-- **Other Skills:** Git, Node.js, HTML/CSS, Bootstrap, Linux, FreeBSD, Docker, CI/CD, SVN, RabbitMQ, Unit tests
+- **AI & Machine Learning:** 
+  - OpenAI API (GPT-3.5, GPT-4, DALL-E)
+  - Prompt Engineering and optimization
+  - AI Integration into existing systems and workflows
+  - Natural Language Processing (NLP)
+  - AI-powered Chatbots development
+  - AI Content Generation and automation
+  - Machine Learning model integration
+  - AI-driven data analysis and insights
+- **Marketing & Analytics:** HubSpot, Google Tag Manager, Pendo
+- **Testing & Automation:** Playwright, Unit tests, End-to-End testing
+- **Other Skills:** Git, Node.js, HTML/CSS, Bootstrap, Linux, FreeBSD, Docker, CI/CD, SVN, RabbitMQ
 
 ### Professional Experience
 
-#### Senior Backend Developer at edited.com, UK/Bulgaria (Sep 2023 - now)
+#### Senior Backend Developer / Senior WordPress Developer at edited.com, UK/Bulgaria (Sep 2023 - now)
 - **Software Development and Maintenance**: Develops and maintains software for existing applications and new functionalities, ensuring high performance, security, and user-friendliness.
 - **Configuration Management**: Creates, preserves, updates, optimizes, documents, and implements software configurations necessary for its operation.
 - **Innovation Tracking and Problem Resolution**: Keeps track of innovations in software development, tests them, and assists in investigating and verifying new functionalities and problems.
 - **Code Quality and Confidentiality**: Ensures high-quality code, maintains confidentiality when working with sensitive information, and takes care of computer equipment.
 - **CI/CD and Best Practices**: Configures Continuous Integration/Continuous Deployment pipelines, introduces code style standards, and abides by in-company bylaws.
 
+**WordPress Development Responsibilities:**
+- **Website and Internal System Development**: Responsible for development and maintenance of company website and internal systems
+- **Custom Development**: Develop custom themes, plugins, and functionality using WordPress best practices and extensive knowledge of WordPress APIs
+- **Performance Optimization**: Optimize website performance, ensure code quality, and implement web performance optimization techniques
+- **Automated Testing**: Implement end-to-end testing using Playwright for automated testing and quality assurance
+- **Cross-platform Testing**: Conduct thorough testing and troubleshooting to ensure seamless website functionality across multiple devices and browsers
+- **Team Collaboration**: Collaborate with design and development teams to create new functionalities and improvements on existing systems
+- **Marketing & Analytics Integration**: Build marketing campaigns and integrate with HubSpot, Google Tag Manager, and Pendo
+- **Security & SEO**: Implement security best practices and SEO principles
+- **Technology Leadership**: Keep up-to-date with latest industry trends and technologies, proactively recommend improvements to enhance existing products
+- **AI Integration**: Implement AI-powered features and integrations to enhance product functionality and user experience
+
+**Technologies & Stack:**
+- **Backend:** PHP, Python/Django, REST API development
+- **Frontend:** JavaScript, ReactJS
+- **CMS:** WordPress (custom themes, plugins, APIs)
+- **Testing:** Playwright (E2E testing)
+- **Tools:** HubSpot, Google Tag Manager, Pendo
+
 #### Senior Backend Developer at Dev Tactics, Poland/Germany/USA (Feb 2022 - Sep 2023)
 - **Project Management**: Successfully managed and delivered multiple projects, ensuring timely completion and exceeding client expectations.
 - **Legacy Code Management**: Improved legacy codebase maintainability by refactoring key components, resulting in significant reduction in bugs.
 - **Customer Communication**: Developed and implemented effective communication strategies with clients, leading to substantial increase in customer satisfaction.
 - **API Development**: Designed and implemented high-performance API endpoints using PHP, JavaScript, Laravel, Symfony, Python, MySQL, and Redis, achieving notable improvement in API response speed.
+
+**Key Projects:**
+- **Test Management Tool**: 
+  - Deep work with Codeigniter framework requiring extensive code and technology analysis
+  - **Backend**: Developed API V3 based on REST API architecture, implemented OpenAPI documentation using swagger.io, updated webhooks functionality
+  - **PHP Migration**: Led PHP 7 to 8 migration including code survey, validation, updating, and testing; migrated various modules including Cassandra adapter
+  - **Frontend**: Built interactive charts using FusionCharts library
+  - **Security**: Implemented XSS protection measures
+
+- **Cloud-based API and SAAS Solution for Automated Data Collection**:
+  - Maintained and enhanced legacy codebase with focus on bug fixing and support
+  - Developed data collection integrations from popular resources including search engines, maps, and stock exchanges
+  - Worked with multiple microservices architecture built on Laravel, Symfony, and Flask frameworks
+  - Required high-level expertise to handle large-scale codebase and complete complex tasks
 
 #### Senior Backend Developer at Newstatesman Mediagroup, UK/Bulgaria (Jun 2020 - Feb 2023)
 - **Web Development**: Conducted web development using LAMP and MEAN stacks, resulting in significant increase in website performance.

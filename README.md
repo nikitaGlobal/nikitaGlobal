@@ -58,11 +58,12 @@ Highly experienced Senior Backend Developer and WordPress Developer with experti
 - **Security & SEO:** Implement security best practices and SEO principles
 - **Technology Leadership:** Keep up-to-date with latest industry trends and technologies, proactively recommend improvements to enhance existing products
 - **AI Integration:** Implement AI-powered features and integrations to enhance product functionality and user experience
+- **AI Search Configuration:** Setup and fine-tune AI-powered search functionality, including SearchWP plugin integration and optimization
 
 **Technologies & Stack:**
 - **Backend:** PHP, Python/Django, REST API development
 - **Frontend:** JavaScript, ReactJS
-- **CMS:** WordPress (custom themes, plugins, APIs)
+- **CMS:** WordPress (custom themes, plugins, APIs, SearchWP)
 - **Testing:** Playwright (E2E testing)
 - **DevOps:** CI/CD pipelines, Docker
 - **Tools:** HubSpot, Google Tag Manager, Pendo

@@ -1,159 +1,83 @@
-### Contact Information
-| Contact Information | Details |
-|-------------------------|------------|
-| **Name**                | Nikita Menshutin |
-| **Email**                | [info@nikita.global](mailto:info@nikita.global) |
-| **Telegram**            | [@nikita_global](https://t.me/nikita_global) |
-| **GitHub**              | [@nikitaGlobal](https://github.com/nikitaGlobal/) |
-| **Location**            | Varna, Bulgaria |
-| **Language Skills**     | Russian (Native),<br> English (C1),<br> Bulgarian (C1),<br> French (C1) |
-| **Recommendations** | Upon request |
+# Nikita Menshutin
+**Senior Backend Developer (PHP, WordPress, Symfony, Laravel)**
 
-### Professional Summary
-Highly experienced Senior Backend Developer and WordPress Developer with expertise in PHP, JavaScript, Python, and TypeScript. Proven track record of managing multiple projects, developing high-performance API endpoints, custom WordPress themes and plugins, and mentoring teams. Proficient in LAMP and MEAN stacks, with extensive experience in AI integration, marketing automation (HubSpot, Google Tag Manager, Pendo), and a strong focus on delivering scalable and efficient solutions.
+Varna, Bulgaria | Open to remote roles worldwide  
+[info@nikita.global](mailto:info@nikita.global) | [t.me/nikita_global](https://t.me/nikita_global) | [linkedin.com/in/nikitaglobal](https://www.linkedin.com/in/nikitaglobal/) | [github.com/nikitaGlobal](https://github.com/nikitaGlobal/)
 
-### Desired Position
-- **Senior Backend Developer / Senior WordPress Developer**
-  - Employment Type: Project work, part-time, full-time
-  - Work Schedule: Remote working
-  - Travel Time: Any
+## Professional Summary
+- 15+ years of backend development experience focused on PHP, Laravel, Symfony, and high-performance WordPress solutions.
+- Core contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/), a WordPress security plugin with **1M+ active installations**.
+- Led migration of a complex SaaS application from PHP 7 to PHP 8, modernizing legacy modules and improving maintainability.
+- Experienced in API development, AI integrations (OpenAI API), and scalable systems for media and SaaS platforms.
+- WordCamp Sofia 2024 speaker and active WordPress community contributor.
 
-### Key Skills
-- **Programming Languages:** PHP 5.4-8.x, JavaScript, Python, TypeScript
-- **Methodologies:** TDD, SCRUM, Agile, PSR, SOLID, OOP
-- **Frameworks:** Laravel, Symfony, ReactJS
-- **Databases:** MySQL, Redis
-- **CMS:** WordPress, Joomla, Opencart
-- **Stacks:** LAMP, MEAN
-- **AI & Machine Learning:** 
-  - OpenAI API (GPT-3.5, GPT-4, DALL-E)
-  - Prompt Engineering and optimization
-  - AI Integration into existing systems and workflows
-  - Natural Language Processing (NLP)
-  - AI-powered Chatbots development
-  - AI Content Generation and automation
-  - Machine Learning model integration
-  - AI-driven data analysis and insights
-- **Marketing & Analytics:** HubSpot, Google Tag Manager, Pendo
-- **Testing & Automation:** Playwright, Unit tests, End-to-End testing
-- **Other Skills:** Git, Node.js, HTML/CSS, Bootstrap, Linux, FreeBSD, Docker, CI/CD, SVN, RabbitMQ
+## Key Skills
+`PHP` | `Laravel` | `Symfony` | `WordPress` | `JavaScript` | `TypeScript` | `Python` | `ReactJS` | `MySQL` | `Redis` | `Docker` | `CI/CD` | `REST API` | `OpenAI API` | `Git`
 
-### Professional Experience
+## Professional Experience
 
-#### Senior Backend Developer / Senior WordPress Developer at edited.com, UK/Bulgaria (Sep 2023 - now)
-- **Software Development and Maintenance:** Develops and maintains software for existing applications and new functionalities, ensuring high performance, security, and user-friendliness.
-- **Configuration Management:** Creates, preserves, updates, optimizes, documents, and implements software configurations necessary for its operation.
-- **Innovation Tracking and Problem Resolution:** Keeps track of innovations in software development, tests them, and assists in investigating and verifying new functionalities and problems.
-- **Code Quality and Confidentiality:** Ensures high-quality code, maintains confidentiality when working with sensitive information, and takes care of computer equipment.
-- **CI/CD and Best Practices:** Configures Continuous Integration/Continuous Deployment pipelines, introduces code style standards, and abides by in-company bylaws.
+### edited.com — Senior Backend Developer / Senior WordPress Developer
+**Sep 2023 - Present | UK/Bulgaria**
 
-**WordPress Development Responsibilities:**
+One of the largest B2B fashion intelligence portals.
 
-- **Website and Internal System Development:** Responsible for development and maintenance of company website and internal systems
-- **Custom Development:** Develop custom themes, plugins, and functionality using WordPress best practices and extensive knowledge of WordPress APIs
-- **Performance Optimization:** Optimize website performance, ensure code quality, and implement web performance optimization techniques
-- **Automated Testing:** Implement end-to-end testing using Playwright for automated testing and quality assurance
-- **Cross-platform Testing:** Conduct thorough testing and troubleshooting to ensure seamless website functionality across multiple devices and browsers
-- **Team Collaboration:** Collaborate with design and development teams to create new functionalities and improvements on existing systems
-- **Marketing & Analytics Integration:** Build marketing campaigns and integrate with HubSpot, Google Tag Manager, and Pendo
-- **Security & SEO:** Implement security best practices and SEO principles
-- **Technology Leadership:** Keep up-to-date with latest industry trends and technologies, proactively recommend improvements to enhance existing products
-- **AI Integration:** Implement AI-powered features and integrations to enhance product functionality and user experience
-- **AI Search Configuration:** Setup and fine-tune AI-powered search functionality, including SearchWP plugin integration and optimization
+- Architected and developed custom WordPress themes and plugins, including integrations with HubSpot, GTM, and Pendo to support marketing automation and analytics.
+- Implemented end-to-end test coverage with Playwright, helping automate QA and reduce pre-release regressions.
+- Configured and optimized AI-powered site search with SearchWP, improving search relevance and user experience.
+- Established CI/CD workflows and code style standards, improving development consistency and release flow.
+- Integrated OpenAI API to deliver AI-powered product features.
 
-**Technologies & Stack:**
+### Dev Tactics — Senior Backend Developer
+**Feb 2022 - Sep 2023 | Poland/Germany/USA**
 
-- **Backend:** PHP, Python/Django, REST API development
-- **Frontend:** JavaScript, ReactJS
-- **CMS:** WordPress (custom themes, plugins, APIs, SearchWP)
-- **Testing:** Playwright (E2E testing)
-- **DevOps:** CI/CD pipelines, Docker
-- **Tools:** HubSpot, Google Tag Manager, Pendo
+- **[testrail.com](https://testrail.com/):** Led full migration of a legacy Test Management Tool from PHP 7 to PHP 8, including audit, refactoring, compatibility validation, and rollout.
+- **[apilayer.com](https://apilayer.com):** Redesigned and implemented REST API v3 with OpenAPI (Swagger) documentation, reducing onboarding friction for integration partners.
+- **[zenscrape.com](https://zenscrape.com):** Built and maintained data-collection integrations across search, maps, and stock data sources in a microservices architecture (Laravel, Symfony, Flask).
+- Refactored critical modules in legacy services, decreasing bug volume and simplifying onboarding for new developers.
 
-#### Senior Backend Developer at Dev Tactics, Poland/Germany/USA (Feb 2022 - Sep 2023)
-- **Project Management:** Successfully managed and delivered multiple projects, ensuring timely completion and exceeding client expectations.
-- **Legacy Code Management:** Improved legacy codebase maintainability by refactoring key components, resulting in significant reduction in bugs.
-- **Customer Communication:** Developed and implemented effective communication strategies with clients, leading to substantial increase in customer satisfaction.
-- **API Development:** Designed and implemented high-performance API endpoints using PHP, JavaScript, Laravel, Symfony, Python, MySQL, and Redis, achieving notable improvement in API response speed.
+### New Statesman Media Group — Senior Backend Developer
+**Jun 2020 - Feb 2023 | UK/Bulgaria**
 
-**Key Projects:**
+Publisher of [newstatesman.com](https://www.newstatesman.com/), one of the largest and oldest newspapers and media portals in the UK.
 
-- **Test Management Tool:**
-  - Deep work with Codeigniter framework requiring extensive code and technology analysis
-  - Backend: Developed API V3 based on REST API architecture, implemented OpenAPI documentation using swagger.io, updated webhooks functionality
-  - PHP Migration: Led PHP 7 to 8 migration including code survey, validation, updating, and testing; migrated various modules including Cassandra adapter
-  - Frontend: Built interactive charts using FusionCharts library
-  - Security: Implemented XSS protection measures
+- Developed and maintained high-traffic WordPress properties on LAMP stack, focusing on performance and scalability.
+- Built a custom WordPress plugin for in-article polls with BigQuery integration for analytics and reporting.
+- Created a content-targeting plugin (PHP/TypeScript) integrated with Permutive.io to support personalized ad campaigns.
+- Mentored junior engineers through code reviews and collaborative delivery practices.
 
-- **Cloud-based API and SAAS Solution for Automated Data Collection:**
-  - Maintained and enhanced legacy codebase with focus on bug fixing and support
-  - Developed data collection integrations from popular resources including search engines, maps, and stock exchanges
-  - Worked with multiple microservices architecture built on Laravel, Symfony, and Flask frameworks
-  - Required high-level expertise to handle large-scale codebase and complete complex tasks
+### Founder & Lead Developer — nikita.global (Freelance)
+**Mar 2009 - Present**
 
-#### Senior Backend Developer at Newstatesman Mediagroup, UK/Bulgaria (Jun 2020 - Feb 2023)
-- **Web Development:** Conducted web development using LAMP and MEAN stacks, resulting in significant increase in website performance.
-- **Code Reviews:** Performed rigorous code reviews to ensure quality standards, improving overall code quality.
-- **Staff Training:** Trained and mentored staff members, enhancing team productivity.
-- **Plugin Development:** Developed Drupal and WordPress themes and plugins, including:
-  - WordPress plugin for in-article polls using PHP, JavaScript, BigQuery, and permutive.io.
-  - WordPress plugin for ad campaigns/content targeting using PHP, TypeScript, permutive.io, Composer, and CarbonFields.
-  - WordPress plugin for data display/search/filter using PHP, JavaScript, Mustache, and FastestCache.
+Delivered end-to-end solutions for international clients (including Upwork and Toptal), with a focus on custom WordPress development, e-commerce integrations, and legacy modernization.
 
-#### Freelance Developer (2009 - 2023)
-- **WordPress & Joomla Development:** Created numerous plugins for WordPress and Joomla platforms, including custom payment gateways and delivery systems for WooCommerce, warehouse integrations, and e-commerce solutions.
-- **E-commerce Solutions:** Developed payment gateways and delivery systems for WooCommerce, integrated with various warehouses and marketplaces including AliExpress and eBay.
-- **Government & Business Projects:** Built websites for government services, dance schools, and implemented access control systems for shopping centers.
-- **Data Processing & Automation:** Developed web scrapers and data processing tools for various business needs.
-- **Legacy Code Management:** Successfully maintained and modernized numerous legacy projects, ensuring their continued functionality and performance optimization.
-- **Security & Malware Protection:** Implemented comprehensive security measures and developed solutions to combat malicious software, ensuring robust protection for client systems and data.
-- **Freelance Platforms:** Active experience on Upwork and Toptal, delivering high-quality solutions to international clients while maintaining excellent ratings and client relationships.
-- **Project Management:** Successfully delivered multiple projects on time and within budget, ensuring high client satisfaction and retention rates.
+- **High-load media project:** Architected and scaled a WordPress platform for a rap magazine with traffic peaks around 1M monthly visitors.
+- **E-commerce integrations:** Developed custom WooCommerce payment and warehouse integrations, including marketplace-related workflows (AliExpress, eBay).
+- **Mobile product backend:** Built backend services and APIs for a React Native baby-monitoring app with a 4.5-star app-store rating.
 
-#### Founder at nikita.global (Mar 2018)
-- **Contract Management:** Managed contracts and technical assignments for multiple clients, ensuring high client retention rate.
-- **Team Leadership:** Led teams and acted as a backend developer, successfully delivering projects on time and within budget.
-- **Project Development:** Developed projects using LAMP and MEAN stacks, including:
-  - High-load WordPress project for a Russian rap magazine, achieving substantial increase in traffic.
-  - React.js web game for Russian mobile operators, resulting in significant increase in user engagement.
-  - React Native mobile app for baby monitoring, with a 4.5-star rating on app stores.
-  - React Native mobile app for journalists, improving data collection efficiency.
+## Education
+- **MBA in Marketing** — Cardiff Metropolitan University of Wales, UK (2012)
+- **French Language Course** — Institut International de Langues & Affaires, Rambouillet, France
 
-### Education
-- **MBA in Marketing**, Cardiff Metropolitan University of Wales, UK (2012)
-- **French Language Course**, Institut International de Langues & Affaires, Rambouillet, France
+## Certifications
+- **PHP Developer, Professional** — Otus (2023)
+- **Advanced PHP** — Udemy (2020)
+- Plus earlier certifications in Git, TypeScript, and front-end frameworks.
 
-### Certifications
-- PHP Developer. Professional Otus (2023)
-- Advanced PHP Udemy (2020)
-- Learn Git Course (2021)
-- Learn TypeScript Course (2021)
-- Learn Advanced PHP Programming (2016)
-- Front-End JavaScript Frameworks: AngularJS (2016)
-- Front-End Web UI Frameworks and Tools (2016)
-- HTML, CSS, and JavaScript (2016)
-- Multiplatform Mobile App Development with Web Technologies (2016)
+## Community
+- WordCamp Sofia 2024 speaker, WordPress plugin developer, and translator.  
+  [WordPress Profile](https://profiles.wordpress.org/nikitaglobal/)
+- Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (**1M+ active installations**).
+- Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019).
 
-### Pet projects
-- **WordPress community:** WordCamp Speaker (Sofia/2024), plugin developer, translator. [Me at wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
-- **WordPress Plugin Contributor:** Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) - a popular security plugin for WordPress with over 1 million active installations
-- **ViK bot:** telegram bot, warns people in several Bulgarian cities about upcoming water shortage. Since 2019
-
-### Additional Information
-- **Two Professions:** Software Developer and International Economics.
-- **Hobbies:** Fond of sports and writes articles for media.
-- **Driving Experience:** Owns and drives car.
-
-## My Links
+## Links
 - [GitHub](https://github.com/nikitaGlobal/)
-- [Linkedin](https://www.linkedin.com/in/nikitaglobal/)
+- [LinkedIn](https://www.linkedin.com/in/nikitaglobal/)
 - [Toptal](https://www.toptal.com/resume/nikita-menshutin)
-- [Habr.com](https://habr.com/ru/users/nikitaGlobal/)
-- [wordpress.com](https://profiles.wordpress.org/nikitaglobal/)
+- [Habr](https://habr.com/ru/users/nikitaGlobal/)
+- [WordPress.org](https://profiles.wordpress.org/nikitaglobal/)
 - [WordPress.tv](https://wordpress.tv/speakers/nikita-menshutin/)
-- [Personal blog nikita.global](https://nikita.global)
+- [Personal blog](https://nikita.global)
 
-Latest version of my cv can be found here:
-
+Latest CV:
 - [Web version](https://nikitaglobal.github.io/nikitaGlobal/)
 - [PDF version](https://nikitaglobal.github.io/nikitaGlobal/nikita_menshutin.pdf)

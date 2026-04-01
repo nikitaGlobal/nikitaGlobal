@@ -2,7 +2,7 @@
 **Senior Backend Developer (PHP, WordPress, Symfony, Laravel)**
 
 Varna, Bulgaria | Open to remote roles worldwide  
-[info@nikita.global](mailto:info@nikita.global) | [t.me/nikita_global](https://t.me/nikita_global) | [linkedin.com/in/nikitaglobal](https://www.linkedin.com/in/nikitaglobal/) | [github.com/nikitaGlobal](https://github.com/nikitaGlobal/)
+info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.com/nikitaGlobal
 
 ## Professional Summary
 - 15+ years of backend development experience focused on PHP, Laravel, Symfony, and high-performance WordPress solutions.
@@ -30,9 +30,9 @@ One of the largest B2B fashion intelligence portals.
 ### Dev Tactics — Senior Backend Developer
 **Feb 2022 - Sep 2023 | Poland/Germany/USA**
 
-- **[testrail.com](https://testrail.com/):** Led full migration of a legacy Test Management Tool from PHP 7 to PHP 8, including audit, refactoring, compatibility validation, and rollout.
-- **[apilayer.com](https://apilayer.com):** Redesigned and implemented REST API v3 with OpenAPI (Swagger) documentation, reducing onboarding friction for integration partners.
-- **[zenscrape.com](https://zenscrape.com):** Built and maintained data-collection integrations across search, maps, and stock data sources in a microservices architecture (Laravel, Symfony, Flask).
+- Led the full migration of TestRail, a legacy Test Management Tool, from PHP 7 to PHP 8, including code audit, refactoring, compatibility validation, and rollout.
+- Redesigned and implemented REST API v3 for APILayer, documenting it with OpenAPI (Swagger) to reduce onboarding friction for integration partners.
+- Built and maintained data-collection integrations for ZenScrape across search, maps, and stock data sources within a microservices architecture (Laravel, Symfony, Flask).
 - Refactored critical modules in legacy services, decreasing bug volume and simplifying onboarding for new developers.
 
 ### New Statesman Media Group — Senior Backend Developer
@@ -43,7 +43,7 @@ Publisher of [newstatesman.com](https://www.newstatesman.com/), one of the large
 - Developed and maintained high-traffic WordPress properties on LAMP stack, focusing on performance and scalability.
 - Built a custom WordPress plugin for in-article polls with BigQuery integration for analytics and reporting.
 - Created a content-targeting plugin (PHP/TypeScript) integrated with Permutive.io to support personalized ad campaigns.
-- Mentored junior engineers through code reviews and collaborative delivery practices.
+- Mentored 2 junior engineers through code reviews and pair programming, supporting their growth to Mid-level roles within 18 months.
 
 ### Founder & Lead Developer — nikita.global (Freelance)
 **Mar 2009 - Present**
@@ -68,15 +68,6 @@ Delivered end-to-end solutions for international clients (including Upwork and T
   [WordPress Profile](https://profiles.wordpress.org/nikitaglobal/)
 - Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (**1M+ active installations**).
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019).
-
-## Links
-- [GitHub](https://github.com/nikitaGlobal/)
-- [LinkedIn](https://www.linkedin.com/in/nikitaglobal/)
-- [Toptal](https://www.toptal.com/resume/nikita-menshutin)
-- [Habr](https://habr.com/ru/users/nikitaGlobal/)
-- [WordPress.org](https://profiles.wordpress.org/nikitaglobal/)
-- [WordPress.tv](https://wordpress.tv/speakers/nikita-menshutin/)
-- [Personal blog](https://nikita.global)
 
 Latest CV:
 - [Web version](https://nikitaglobal.github.io/nikitaGlobal/)

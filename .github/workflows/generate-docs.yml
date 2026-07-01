@@ -49,14 +49,14 @@ jobs:
       run: |
           git checkout main README.md
           git checkout main styles.css
-          pandoc README.md --metadata title="Senior PHP Backend Developer"  --from=markdown --to=html5  -o index.html --standalone --css=styles.css
+          pandoc README.md --from=markdown --to=html5 -o index.html --standalone --css=styles.css -M title-block=false
            
     
     - name: Generate PDF
       run: |
           git checkout main README.md
           git checkout main styles.css
-          pandoc --standalone --metadata title="Senior PHP Backend Developer" --from=markdown --to=html5 README.md -o output.html
+          pandoc --standalone --from=markdown --to=html5 README.md -o output.html -M title-block=false
           weasyprint output.html -s styles.css nikita_menshutin.pdf
 
     - name: Set up GitHub token

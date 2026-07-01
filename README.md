@@ -67,5 +67,7 @@ Delivered end-to-end solutions for international clients (including Upwork and T
 - Contributor to [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/)
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019)
 
+Latest CV:
+
 - [Web version](https://nikitaglobal.github.io/nikitaGlobal/)
 - [PDF version](https://nikitaglobal.github.io/nikitaGlobal/nikita_menshutin.pdf)

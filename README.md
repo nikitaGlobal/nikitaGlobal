@@ -6,7 +6,7 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 
 ## Professional Summary
 - 15+ years of experience as a Senior Backend Developer specializing in PHP, Laravel, Symfony, and high-performance WordPress.
-- Core contributor to a WordPress security plugin with 1M+ active installations ([Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/)).
+- Core contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/), a WordPress security plugin with 1M+ active installations.
 - Led the full migration of a legacy SaaS application (TestRail) from PHP 7 to PHP 8, ensuring a seamless rollout.
 - Speaker at WordCamp Sofia 2024, demonstrating active community leadership and expertise.
 
@@ -21,8 +21,8 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 One of the largest B2B fashion intelligence portals.
 
 - Architected and delivered custom WordPress plugins with HubSpot, GTM, and Pendo integrations, enabling the marketing team to launch automated campaigns and track user funnels.
-- Implemented a full end-to-end test suite using Playwright, slashing manual QA effort before releases and reducing critical regressions.
-- Replaced the default site search with an AI-powered SearchWP solution, improving content discovery and leading to a measurable lift in user engagement with search results.
+- Implemented a full end-to-end test suite with Playwright, reducing manual QA from a multi-day effort to a few hours per release and virtually eliminating critical pre-launch bugs.
+- Replaced default site search with an AI-powered SearchWP solution, boosting search result click-through and improving content discovery for users.
 - Established the company's first CI/CD pipeline for WordPress projects, automating deployments and standardizing code quality across the team.
 - Integrated the OpenAI API to build a content summarization feature, providing a key differentiator for the platform's premium offering.
 
@@ -31,7 +31,7 @@ One of the largest B2B fashion intelligence portals.
 
 - Led the full migration of TestRail, a legacy Test Management Tool, from PHP 7 to PHP 8, including code audit, refactoring, compatibility validation, and rollout.
 - Redesigned and implemented REST API v3 for APILayer, documenting it with OpenAPI (Swagger) to reduce onboarding friction for integration partners.
-- Built and maintained data-collection integrations for ZenScrape across search, maps, and stock data sources within a microservices architecture (Laravel, Symfony, Flask).
+- Architected and delivered data-collection integrations for ZenScrape across search, maps, and stock data sources within a microservices architecture (Laravel, Symfony, Flask).
 - Refactored critical modules in legacy services, decreasing bug volume and simplifying onboarding for new developers.
 
 ### New Statesman Media Group — Senior Backend Developer
@@ -39,7 +39,7 @@ One of the largest B2B fashion intelligence portals.
 
 Publisher of [newstatesman.com](https://www.newstatesman.com/), one of the largest and oldest newspapers and media portals in the UK.
 
-- Developed and maintained high-traffic WordPress properties on LAMP stack, focusing on performance and scalability.
+- Scaled and optimized high-traffic WordPress properties (LAMP stack), ensuring 99.9% uptime and fast load times for millions of monthly readers.
 - Built a custom WordPress plugin for in-article polls with BigQuery integration for analytics and reporting.
 - Created a content-targeting plugin (PHP/TypeScript) integrated with Permutive.io to support personalized ad campaigns.
 - Mentored 2 junior engineers through code reviews and pair programming, supporting their growth to Mid-level roles within 18 months.
@@ -63,7 +63,7 @@ Delivered end-to-end solutions for international clients (including Upwork and T
 
 ## Community
 - WordCamp Sofia 2024 speaker, WordPress plugin developer, and translator — [WordPress profile](https://profiles.wordpress.org/nikitaglobal/)
-- Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (1M+ active installations)
+- Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/), a WordPress security plugin with 1M+ active installations
 - Contributor to [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/)
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019)
 

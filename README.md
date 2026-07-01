@@ -7,6 +7,7 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 ## Professional Summary
 - 15+ years of backend development experience focused on PHP, Laravel, Symfony, and high-performance WordPress solutions.
 - Core contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/), a WordPress security plugin with **1M+ active installations**.
+- Contributor to [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/), a WordPress security plugin.
 - Led migration of a complex SaaS application from PHP 7 to PHP 8, modernizing legacy modules and improving maintainability.
 - Experienced in API development, AI integrations (OpenAI API), and scalable systems for media and SaaS platforms.
 - WordCamp Sofia 2024 speaker and active WordPress community contributor.
@@ -17,7 +18,7 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 ## Professional Experience
 
 ### edited.com — Senior Backend Developer / Senior WordPress Developer
-**Sep 2023 - Present | UK/Bulgaria**
+**Sep 2023 - Nov 2025 | UK/Bulgaria**
 
 One of the largest B2B fashion intelligence portals.
 
@@ -46,7 +47,7 @@ Publisher of [newstatesman.com](https://www.newstatesman.com/), one of the large
 - Mentored 2 junior engineers through code reviews and pair programming, supporting their growth to Mid-level roles within 18 months.
 
 ### Founder & Lead Developer — nikita.global (Freelance)
-**Mar 2009 - Present**
+**Mar 2009 - 2020**
 
 Delivered end-to-end solutions for international clients (including Upwork and Toptal), with a focus on custom WordPress development, e-commerce integrations, and legacy modernization.
 
@@ -67,6 +68,7 @@ Delivered end-to-end solutions for international clients (including Upwork and T
 - WordCamp Sofia 2024 speaker, WordPress plugin developer, and translator.  
   [WordPress Profile](https://profiles.wordpress.org/nikitaglobal/)
 - Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (**1M+ active installations**).
+- Contributor to [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/).
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019).
 
 Latest CV:

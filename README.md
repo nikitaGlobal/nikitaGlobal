@@ -8,7 +8,7 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 - 15+ years of experience as a Senior Backend Developer specializing in PHP, Laravel, Symfony, and high-performance WordPress.
 - Core engineer at WPChef on [Limit Login Attempts Security](https://wordpress.org/plugins/limit-login-attempts-reloaded/) — a WordPress login security plugin with 1M+ active installations (brute-force protection, ACL, 2FA/MFA, firewall).
 - Ships WordPress security products at scale: Limit Login Attempts Security, [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/), and additional unpublished security plugins under NDA.
-- Led the full migration of a legacy SaaS application (TestRail) from PHP 7 to PHP 8; speaker at WordCamp Sofia 2024.
+- Led the full migration of a legacy SaaS application (TestRail) from PHP 7 to PHP 8; WordCamp Sofia 2024 speaker and WordCamp Sofia 2026 volunteer.
 
 ## Key Skills
 `PHP` | `Laravel` | `Symfony` | `WordPress` | `WordPress Security` | `Brute-force / ACL / MFA` | `Plugin Architecture` | `JavaScript` | `TypeScript` | `Python` | `ReactJS` | `MySQL` | `Redis` | `Docker` | `CI/CD` | `REST API` | `Playwright e2e` | `OpenAI API` | `Git`
@@ -79,7 +79,7 @@ Delivered end-to-end solutions for international clients (including Upwork and T
 ## Community
 - Core engineer at WPChef for [Limit Login Attempts Security](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (1M+ active installations)
 - [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/) — WordPress 7 AI kill-switch
-- WordCamp Sofia 2024 speaker, WordPress plugin developer, and translator — [WordPress profile](https://profiles.wordpress.org/nikitaglobal/)
+- WordCamp Sofia 2026 volunteer; WordCamp Sofia 2024 speaker; WordPress plugin developer and translator — [WordPress profile](https://profiles.wordpress.org/nikitaglobal/)
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019)
 
 Latest CV:

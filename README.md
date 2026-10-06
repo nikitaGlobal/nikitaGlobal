@@ -1,5 +1,5 @@
 # Nikita Menshutin
-**Senior Backend Developer · WordPress Security Engineer**
+**Senior Backend Developer · Security Engineer**
 
 Varna, Bulgaria | Open to remote roles worldwide  
 info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.com/nikitaGlobal
@@ -15,7 +15,7 @@ info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.
 
 ## Professional Experience
 
-### WPChef — Senior Backend / WordPress Security Engineer
+### WPChef — Senior Backend / Security Engineer
 **Nov 2025 - Present**
 
 Product company behind [Limit Login Attempts Security](https://wordpress.org/plugins/limit-login-attempts-reloaded/) — trusted by 1M+ WordPress sites for login security.

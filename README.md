@@ -1,19 +1,34 @@
 # Nikita Menshutin
-**Senior Backend Developer (PHP, WordPress, Symfony, Laravel)**
+**Senior Backend Developer · Security Engineer**
 
 Varna, Bulgaria | Open to remote roles worldwide  
 info@nikita.global | t.me/nikita_global | linkedin.com/in/nikitaglobal | github.com/nikitaGlobal
 
 ## Professional Summary
 - 15+ years of experience as a Senior Backend Developer specializing in PHP, Laravel, Symfony, and high-performance WordPress.
-- Core contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/), a WordPress security plugin with 1M+ active installations.
-- Led the full migration of a legacy SaaS application (TestRail) from PHP 7 to PHP 8, ensuring a seamless rollout.
-- Speaker at WordCamp Sofia 2024, demonstrating active community leadership and expertise.
+- Core engineer at WPChef on [Limit Login Attempts Security](https://wordpress.org/plugins/limit-login-attempts-reloaded/) — a WordPress login security plugin with 1M+ active installations (brute-force protection, ACL, 2FA/MFA, firewall).
+- Ships WordPress security products at scale: Limit Login Attempts Security, [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/), and additional unpublished security plugins under NDA.
+- Led the full migration of a legacy SaaS application (TestRail) from PHP 7 to PHP 8; WordCamp Sofia 2024 speaker and WordCamp Sofia 2026 volunteer.
 
 ## Key Skills
-`PHP` | `Laravel` | `Symfony` | `WordPress` | `JavaScript` | `TypeScript` | `Python` | `ReactJS` | `MySQL` | `Redis` | `Docker` | `CI/CD` | `REST API` | `OpenAI API` | `Git`
+`PHP` | `Laravel` | `Symfony` | `WordPress` | `WordPress Security` | `Brute-force / ACL / MFA` | `Plugin Architecture` | `JavaScript` | `TypeScript` | `Python` | `ReactJS` | `MySQL` | `Redis` | `Docker` | `CI/CD` | `REST API` | `Playwright e2e` | `OpenAI API` | `Git`
 
 ## Professional Experience
+
+### WPChef — Senior Backend / Security Engineer
+**Nov 2025 - Present**
+
+Product company behind [Limit Login Attempts Security](https://wordpress.org/plugins/limit-login-attempts-reloaded/) — trusted by 1M+ WordPress sites for login security.
+
+- Own the PHP backend for Limit Login Attempts Security: login protection, lockouts, ACL (safelist/denylist), MFA/2FA flows, and WooCommerce / XML-RPC / multisite edge cases.
+- Evolve cloud-backed security: Micro Cloud onboarding, usage/quota surfacing, and cloud vs local ACL failover — keeping free and premium paths production-ready under attack load.
+- Refactor the monolith core into a service-oriented PHP architecture; harden compatibility (CSP nonces, WordPress 7 admin UI, reverse-proxy IP origin).
+- Ship [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/) — a zero-config kill-switch for WordPress 7 AI connectors (core filter + admin lockdown).
+- Shipping additional unpublished WordPress security plugins under NDA.
+- Drive release hygiene: changelog-driven iterations, support-facing fixes, and translation-ready strings across security UX.
+- Build and maintain Playwright e2e coverage for critical login, lockout, MFA, and WooCommerce flows — cutting regression risk before wordpress.org releases.
+
+**Stack:** PHP, WordPress APIs, MySQL, cloud security APIs, WooCommerce hooks, MFA, ACL, Playwright, CI-friendly plugin packaging
 
 ### edited.com — Senior Backend Developer / Senior WordPress Developer
 **Sep 2023 - Nov 2025 | UK/Bulgaria**
@@ -62,9 +77,9 @@ Delivered end-to-end solutions for international clients (including Upwork and T
 - **Advanced PHP** — Udemy (2020)
 
 ## Community
-- WordCamp Sofia 2024 speaker, WordPress plugin developer, and translator — [WordPress profile](https://profiles.wordpress.org/nikitaglobal/)
-- Contributor to [Limit Login Attempts Reloaded](https://wordpress.org/plugins/limit-login-attempts-reloaded/), a WordPress security plugin with 1M+ active installations
-- Contributor to [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/)
+- Core engineer at WPChef for [Limit Login Attempts Security](https://wordpress.org/plugins/limit-login-attempts-reloaded/) (1M+ active installations)
+- [Disable AI for Security](https://wordpress.org/plugins/disable-ai-for-security/) — WordPress 7 AI kill-switch
+- WordCamp Sofia 2026 volunteer; WordCamp Sofia 2024 speaker; WordPress plugin developer and translator — [WordPress profile](https://profiles.wordpress.org/nikitaglobal/)
 - Creator of ViK Bot, a Telegram bot that warns about planned water outages in Bulgarian cities (since 2019)
 
 Latest CV:
